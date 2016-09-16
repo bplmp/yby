@@ -16,7 +16,7 @@ Dependencies:
 * [Git](https://help.github.com/articles/set-up-git)
 * [Node.js](http://nodejs.org)
 * [MongoDB](http://www.mongodb.org)
-* [ImageMagick](http://www.imagemagick.org) (OSX: `brew install image`  Ubuntu: `sudo apt-get install imagemagick`)
+* [ImageMagick](http://www.imagemagick.org) (OSX: `brew install imagemagick`  Ubuntu: `sudo apt-get install imagemagick`)
 
 Clone this repository locally and install dependencies by running this command at application directory:
 
